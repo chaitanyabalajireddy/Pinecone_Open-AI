@@ -1,9 +1,9 @@
 # Pinecone_Open-AI
 
 
-## Project Title: Document Retrieval System
+## Project Title: Question Answering Bot
 
-This project implements a document retrieval system using OpenAI, Pinecone, and Sentence Transformers. It is designed to answer questions by retrieving relevant contexts from a dataset and generating responses based on those contexts.
+This project implements a Context retrieval system using OpenAI, Pinecone, and Sentence Transformers. It is designed to answer questions by retrieving relevant contexts from a dataset and generating responses based on those contexts.
 
 ### Features
 
