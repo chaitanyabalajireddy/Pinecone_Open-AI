@@ -201,6 +201,3 @@ print(answer)
 
 The expected output from the example query is **"in the late 1990s"**, indicating that the system has successfully retrieved relevant documents and generated an appropriate answer using the OpenAI model.
 
----
-
-Feel free to ask if you need any more details or explanations on specific parts!
